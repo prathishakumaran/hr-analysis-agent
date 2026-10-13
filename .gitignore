@@ -1,0 +1,10 @@
+.env
+*.env
+**/.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+outputs/audit_logs/
+outputs/charts/
+outputs/reports/
